@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+.mdiv {
+  background-color: #01020b;
+  margin: 00px;
+  position: absolute;
+  top: 2370px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 1600px;
+}
+
+.mh2 {
+    font-family: "Prompt";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    line-height: 79px;
+    /* identical to box height */
+  
+  
+    color: #ffffff;
+  }
+
+  .mh3 {
+    font-family: 'Mulish', sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25px;
+  font-size: 20px;
+background: linear-gradient(90deg, #1ED7B5 3.98%, #F0F9A7 98.07%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  text-fill-color: transparent;
+}
+
+.imgmdiv{
+    width: 1000px;
+    height: 1350px;
+    margin-top: 50px;
+    background-size: 1007px 1300px;
+    background-repeat:no-repeat;
+    background-image: url("./images/modules.png");
+    image-resolution: 1000px 700px;
+}
+  
