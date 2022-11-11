@@ -1,0 +1,23 @@
+.acc_div{
+    position: absolute;
+    top : 5000px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.inner_div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width:1000px;
+    margin: 10px auto;
+    background-color: #141727;
+}
+
+.acc{
+    width:1000px;
+    margin: 10px auto;
+    background-color: #141727;
+}
