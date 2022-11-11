@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Prodigi-Hackathon-Portfolio/static/css/main.4829df5c.css",
+    "main.js": "/Prodigi-Hackathon-Portfolio/static/js/main.b885df78.js",
+    "static/media/HeroBg.png": "/Prodigi-Hackathon-Portfolio/static/media/HeroBg.2bc676323f8dad0dbf91.png",
+    "static/media/modules.png": "/Prodigi-Hackathon-Portfolio/static/media/modules.13c0207b64c96fa32426.png",
+    "static/media/Bg.png": "/Prodigi-Hackathon-Portfolio/static/media/Bg.edb864f60659fcf5abb2.png",
+    "static/media/1.jpg": "/Prodigi-Hackathon-Portfolio/static/media/1.8cc1d09a699238397f4a.jpg",
+    "static/media/solution.png": "/Prodigi-Hackathon-Portfolio/static/media/solution.bf09799e0d58f19ab750.png",
+    "static/media/workflow.png": "/Prodigi-Hackathon-Portfolio/static/media/workflow.ab7c54b8425ee96ca349.png",
+    "static/media/Vedant.png": "/Prodigi-Hackathon-Portfolio/static/media/Vedant.a91298380d141efd0e2d.png",
+    "static/media/prodigihackathon.png": "/Prodigi-Hackathon-Portfolio/static/media/prodigihackathon.3a1a3b5796cae9b14944.png",
+    "static/media/Naivaidya.png": "/Prodigi-Hackathon-Portfolio/static/media/Naivaidya.efa595df897c969266e3.png",
+    "static/media/Shashank.png": "/Prodigi-Hackathon-Portfolio/static/media/Shashank.c4e9e1f1d546691d3634.png",
+    "static/media/Harsh.png": "/Prodigi-Hackathon-Portfolio/static/media/Harsh.e3fd5964eaa0ff084818.png",
+    "static/media/logo.jpg": "/Prodigi-Hackathon-Portfolio/static/media/logo.970eff397f640622610a.jpg",
+    "static/media/logo.svg": "/Prodigi-Hackathon-Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Prodigi-Hackathon-Portfolio/index.html",
+    "main.4829df5c.css.map": "/Prodigi-Hackathon-Portfolio/static/css/main.4829df5c.css.map",
+    "main.b885df78.js.map": "/Prodigi-Hackathon-Portfolio/static/js/main.b885df78.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4829df5c.css",
+    "static/js/main.b885df78.js"
+  ]
+}
