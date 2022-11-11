@@ -8,6 +8,8 @@ import Solution from "./components/Solution";
 import Modules from "./components/Modules";
 import Members from "./components/Members";
 import Footer from "./components/Footer";
+import Acc from "./components/Acc";
+import 'bootstrap/dist/css/bootstrap.css';
 
 const styles = {
   paperContainer: {
@@ -22,7 +24,7 @@ const styles = {
 
 function App() {
   return (
-    <div style = {{scrollBehavior : "smooth"}}>
+    <div style = {{scrollBehavior : "smooth", backgroundColor : "#010415"}}>
 
     <Box>
       <Box style = {styles.paperContainer}>
@@ -34,9 +36,11 @@ function App() {
       <Modules></Modules>
       <Members></Members>
       <Footer></Footer>
+      <Acc></Acc>
     </Box>
     </div>
   );
 }
 
 export default App;
+
